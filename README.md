@@ -58,4 +58,13 @@ Here is the diagram of ResNet-18 Model Architecture:
    
 ![ResNet-18 Model Architecture](https://i.postimg.cc/cxxQ2J45/model.png)
    
-      
+### Technology Used: 
+
+#### Hardware Specifications:
+
+- Raspberry Pi 4 Model B(4GB LPDDR4 RAM) – core processing unit.
+- Raspberry Pi 4 Model B Camera Module – captures high-resolution images of fruits and product labels.
+- Ethernet Cable
+- SD Card (16 GB)
+- 5V/3V USB-C Power Supply (Adapter)
+
